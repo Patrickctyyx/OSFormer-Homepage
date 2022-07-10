@@ -1,13 +1,13 @@
 ## OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers
 
-![OSFormer](https://github.com/PJLallen/OSFormer/blob/main/docs/OSFormer.png)
+![OSFormer](https://github.com/Patrickctyyx/OSFormer-Homepage/blob/gh-pages/docs/OSFormer.png)
 
 Jialun Pei*, Tianyang Cheng*, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van Gool. OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers. ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.02255)[[GitHub]](https://github.com/PJLallen/OSFormer)
 
 
 |            *Sample 1*             |             *Sample 2*             |             *Sample 3*             |             *Sample 4*             |
 | :------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/COD10K-CAM-3-Flying-53-Bird-3024.gif"  height=125 width=170> | <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/COD10K-CAM-3-Flying-65-Owl-4620.gif" height=125 width=170> | <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/488.gif" height=125 width=170> |  <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/4126.gif" height=125 width=170> |
+| <img src="https://github.com/Patrickctyyx/OSFormer-Homepage/blob/gh-pages/docs/COD10K-CAM-3-Flying-53-Bird-3024.gif"  height=125 width=170> | <img src="https://github.com/Patrickctyyx/OSFormer-Homepage/blob/gh-pages/docs/COD10K-CAM-3-Flying-65-Owl-4620.gif" height=125 width=170> | <img src="https://github.com/Patrickctyyx/OSFormer-Homepage/blob/gh-pages/docs/488.gif" height=125 width=170> |  <img src="https://github.com/Patrickctyyx/OSFormer-Homepage/blob/gh-pages/docs/4126.gif" height=125 width=170> |
 
 
 
