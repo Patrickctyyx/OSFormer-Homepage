@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers
 
-You can use the [editor on GitHub](https://github.com/Patrickctyyx/OSFormer-Homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![OSFormer](https://github.com/PJLallen/OSFormer/blob/main/docs/OSFormer.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jialun Pei*, Tianyang Cheng*, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van Gool. OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers. ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.02255)[[GitHub]](https://github.com/PJLallen/OSFormer)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|            *Sample 1*             |             *Sample 2*             |             *Sample 3*             |             *Sample 4*             |
+| :------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/COD10K-CAM-3-Flying-53-Bird-3024.gif"  height=125 width=170> | <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/COD10K-CAM-3-Flying-65-Owl-4620.gif" height=125 width=170> | <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/488.gif" height=125 width=170> |  <img src="https://github.com/PJLallen/OSFormer/blob/main/docs/4126.gif" height=125 width=170> |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Citation
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Patrickctyyx/OSFormer-Homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+@inproceedings{pei2022osformer,
+  title={OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers},
+  author={Pei, Jialun and Cheng, Tianyang and Fan, Deng-Ping and Tang, He and Chen, Chuanbo and Van Gool, Luc},
+  booktitle={European conference on computer vision},
+  year={2022},
+  organization={Springer}
+}
+```
