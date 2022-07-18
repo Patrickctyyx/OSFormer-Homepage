@@ -1,4 +1,10 @@
 # theme: jekyll-theme-cayman
-remote_theme: mmistakes/minimal-mistakes
+remote_theme             : mmistakes/minimal-mistakes
+locale                   : "en-US"
+title                    : "OSFormer"
+title_separator          : "|"
+subtitle                 : "One-Stage Camouflaged Instance Segmentation with Transformers"
+description              : "Homepage for "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers"
+logo                     : "https://blog.patrickcty.cc/OSFormer-Homepage/docs/jnujmm.png"
 plugins:
   - jekyll-include-cache
