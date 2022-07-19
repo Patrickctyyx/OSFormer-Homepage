@@ -1,8 +1,8 @@
-## OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers
+# OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers
 
 ![OSFormer](https://blog.patrickcty.cc/OSFormer-Homepage/docs/OSFormer.png)
 
-Jialun Pei*, Tianyang Cheng*, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van Gool. OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers. ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.02255)[[GitHub]](https://github.com/PJLallen/OSFormer)
+Jialun Pei, Tianyang Cheng, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van Gool. OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers. ECCV, 2022. [[Arxiv]](https://arxiv.org/abs/2207.02255)[[GitHub]](https://github.com/PJLallen/OSFormer)[[中文版]](https://dengpingfan.github.io/papers/%5B2022%5D%5BECCV%5DOSFormer_Chinese.pdf)
 
 
 |            *Sample 1*             |             *Sample 2*             |             *Sample 3*             |             *Sample 4*             |
@@ -11,7 +11,7 @@ Jialun Pei*, Tianyang Cheng*, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van 
 
 
 
-### Citation
+## Citation
 
 ```
 @inproceedings{pei2022osformer,
@@ -22,3 +22,8 @@ Jialun Pei*, Tianyang Cheng*, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van 
   organization={Springer}
 }
 ```
+
+## More Visual Results
+
+![COD10K](https://blog.patrickcty.cc/OSFormer-Homepage/docs/result-cod10k.png)
+![NC4K](https://blog.patrickcty.cc/OSFormer-Homepage/docs/result-nc4k.png)
