@@ -25,5 +25,5 @@ Jialun Pei, Tianyang Cheng, Deng-Ping Fan, He Tang, Chuanbo Chen, and Luc Van Go
 
 ## More Visual Results
 
-[COD10K](https://blog.patrickcty.cc/OSFormer-Homepage/docs/result-cod10k.png)
-[NC4K](https://blog.patrickcty.cc/OSFormer-Homepage/docs/result-nc4k.png)
+![COD10K](https://blog.patrickcty.cc/OSFormer-Homepage/docs/result-cod10k.png)
+![NC4K](https://blog.patrickcty.cc/OSFormer-Homepage/docs/result-nc4k.png)
