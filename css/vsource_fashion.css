@@ -1,0 +1,39 @@
+/*
+Theme Name: Fashionistas
+Theme URI: http://athemes.com/theme/fashionista
+Author: aThemes
+Author URI: http://athemes.com
+Description: Fashionistas is a bold and fun theme built on Bootstrap, suitable for magazine style blogs.
+Version: 1.7
+License: GNU General Public License v3.0
+License URI: license.txt
+Tags: black, white, two-columns, fixed-layout, threaded-comments, full-width-template, custom-menu
+*/
+
+
+/* Global
+----------------------------------------------- */
+
+
+
+/* Links */
+a {
+	color: #1fa0ae;
+	outline: none;
+	-webkit-transition: all 0.14s ease 0s; 
+	   -moz-transition: all 0.14s ease 0s; 
+		 -o-transition: all 0.14s ease 0s; 
+	}
+a:hover,
+a:focus,
+a:active {
+	color: #333;
+	}
+
+/* Text Elements */
+blockquote p {
+	line-height: 1.6;
+	}
+dd {
+	margin-bottom: 1em;
+	}
